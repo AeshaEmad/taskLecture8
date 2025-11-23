@@ -1,0 +1,14 @@
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\bin\Debug\net8.0\UniversityExamSystem.exe
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\bin\Debug\net8.0\UniversityExamSystem.deps.json
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\bin\Debug\net8.0\UniversityExamSystem.runtimeconfig.json
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\bin\Debug\net8.0\UniversityExamSystem.dll
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\bin\Debug\net8.0\UniversityExamSystem.pdb
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.AssemblyInfoInputs.cache
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.AssemblyInfo.cs
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.csproj.CoreCompileInputs.cache
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.dll
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\refint\UniversityExamSystem.dll
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.pdb
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\UniversityExamSystem.genruntimeconfig.cache
+C:\Users\cxbah\OneDrive\Desktop\ExamSystem\obj\Debug\net8.0\ref\UniversityExamSystem.dll
